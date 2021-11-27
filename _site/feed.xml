@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研究室紹介サイト</title>
+    <description>主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。</description>
+    <link>/biol-lab-intro/</link>
+    <atom:link href="/biol-lab-intro/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Nov 2021 14:33:07 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Nov 2021 14:33:07 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>このサイトについて</title>
+        <description>&lt;p&gt;サイトの紹介文。&lt;br /&gt;
+研究室配属までの流れ　など&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Nov 2021 00:00:00 +0900</pubDate>
+        <link>/biol-lab-intro/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+        <guid isPermaLink="true">/biol-lab-intro/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>神経分子機能研究室</title>
+        <description>&lt;p&gt;神経分子機能研究室の紹介文&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Nov 2021 00:00:00 +0900</pubDate>
+        <link>/biol-lab-intro/neumol/</link>
+        <guid isPermaLink="true">/biol-lab-intro/neumol/</guid>
+        
+        <category>雰囲気</category>
+        
+        
+        <category>分野</category>
+        
+      </item>
+    
+      <item>
+        <title>発生生物学研究室</title>
+        <description>&lt;p&gt;発生生物学研究室の紹介文&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Nov 2021 00:00:00 +0900</pubDate>
+        <link>/biol-lab-intro/devpro/</link>
+        <guid isPermaLink="true">/biol-lab-intro/devpro/</guid>
+        
+        <category>雰囲気</category>
+        
+        
+        <category>分野</category>
+        
+      </item>
+    
+      <item>
+        <title>細胞遺伝学研究室</title>
+        <description>&lt;p&gt;細胞遺伝学研究室の紹介文&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Nov 2021 00:00:00 +0900</pubDate>
+        <link>/biol-lab-intro/celgen/</link>
+        <guid isPermaLink="true">/biol-lab-intro/celgen/</guid>
+        
+        <category>雰囲気</category>
+        
+        
+        <category>分野</category>
+        
+      </item>
+    
+      <item>
+        <title>分子遺伝学研究室</title>
+        <description>&lt;p&gt;分子遺伝学研究室の紹介文&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Nov 2021 00:00:00 +0900</pubDate>
+        <link>/biol-lab-intro/molgen/</link>
+        <guid isPermaLink="true">/biol-lab-intro/molgen/</guid>
+        
+        <category>雰囲気</category>
+        
+        
+        <category>分野</category>
+        
+      </item>
+    
+      <item>
+        <title>植物発生生理学研究室</title>
+        <description>&lt;p&gt;植物発生生理学研究室の紹介文&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Nov 2021 00:00:00 +0900</pubDate>
+        <link>/biol-lab-intro/horcel/</link>
+        <guid isPermaLink="true">/biol-lab-intro/horcel/</guid>
+        
+        <category>雰囲気</category>
+        
+        
+        <category>分野</category>
+        
+      </item>
+    
+      <item>
+        <title>細胞生化学研究室</title>
+        <description>&lt;p&gt;細胞生化学研究室の紹介文&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Nov 2021 00:00:00 +0900</pubDate>
+        <link>/biol-lab-intro/celche/</link>
+        <guid isPermaLink="true">/biol-lab-intro/celche/</guid>
+        
+        <category>雰囲気</category>
+        
+        
+        <category>分野</category>
+        
+      </item>
+    
+      <item>
+        <title>進化遺伝学研究室</title>
+        <description>&lt;p&gt;進化遺伝学研究室の紹介文&lt;/p&gt;
+
+&lt;p&gt;hello&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Nov 2021 00:00:00 +0900</pubDate>
+        <link>/biol-lab-intro/evogen/</link>
+        <guid isPermaLink="true">/biol-lab-intro/evogen/</guid>
+        
+        <category>雰囲気</category>
+        
+        
+        <category>分野</category>
+        
+      </item>
+    
+      <item>
+        <title>神経生物学研究室</title>
+        <description>&lt;p&gt;神経生物学研究室の紹介文&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Nov 2021 00:00:00 +0900</pubDate>
+        <link>/biol-lab-intro/neubio/</link>
+        <guid isPermaLink="true">/biol-lab-intro/neubio/</guid>
+        
+        <category>雰囲気</category>
+        
+        
+        <category>分野</category>
+        
+      </item>
+    
+      <item>
+        <title>植物環境応答研究室</title>
+        <description>&lt;p&gt;植物環境応答研究室の紹介文&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Nov 2021 00:00:00 +0900</pubDate>
+        <link>/biol-lab-intro/pladev/</link>
+        <guid isPermaLink="true">/biol-lab-intro/pladev/</guid>
+        
+        <category>雰囲気</category>
+        
+        
+        <category>分野</category>
+        
+      </item>
+    
+  </channel>
+</rss>
