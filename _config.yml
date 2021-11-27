@@ -4,7 +4,7 @@ title: "研究室紹介サイト"
 description: "主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /biol-lab-intro
+baseurl: /lab-intro
 google_analytics: 'UA-213655986-1'
 include: ["_pages"]
 permalink: /:title/
