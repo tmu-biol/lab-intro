@@ -1,1 +1,1 @@
-Sitemap: /biol-lab-intro/sitemap.xml
+Sitemap: /lab-intro/sitemap.xml

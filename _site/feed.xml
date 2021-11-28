@@ -3,31 +3,79 @@
   <channel>
     <title>研究室紹介サイト</title>
     <description>主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。</description>
-    <link>/biol-lab-intro/</link>
-    <atom:link href="/biol-lab-intro/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Nov 2021 14:33:07 +0900</pubDate>
-    <lastBuildDate>Sat, 27 Nov 2021 14:33:07 +0900</lastBuildDate>
+    <link>/lab-intro/</link>
+    <atom:link href="/lab-intro/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 28 Nov 2021 18:56:19 +0900</pubDate>
+    <lastBuildDate>Sun, 28 Nov 2021 18:56:19 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
-        <title>このサイトについて</title>
-        <description>&lt;p&gt;サイトの紹介文。&lt;br /&gt;
-研究室配属までの流れ　など&lt;/p&gt;
+        <title>研究室選びのポイント</title>
+        <description>&lt;h2 id=&quot;研究室選びのポイント&quot;&gt;研究室選びのポイント&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;研究室の名前にダマされない
+    &lt;ul&gt;
+      &lt;li&gt;研究室の名前からは想像できないような研究をしていることもありますし、研究室の名前のようなことを本当に研究しているとは限りません。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;実際にどのような研究をしているのか
+    &lt;ul&gt;
+      &lt;li&gt;先輩から聞いた話、友達から聞いた噂、今までの授業内容、などの情報だけを当てにしていませんか？研究に関しては先生に直接聞きに行くのが一番です。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;研究室で何ができるのか
+    &lt;ul&gt;
+      &lt;li&gt;卒業研究でどのようなことができるのか聞いてみましょう。自分で考えたテーマで研究させてくれる研究室もありますし、大きなテーマに沿ってみんなで協力して研究を進めている研究室もあります。&lt;/li&gt;
+      &lt;li&gt;学外の研究機関から指導を受けられる研究室もあります。&lt;/li&gt;
+      &lt;li&gt;卒研生として配属されたら、どのような研究が可能か、具体的に考えて見ましょう。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;研究室の雰囲気も重要です。
+    &lt;ul&gt;
+      &lt;li&gt;本サイトで雰囲気だけでも感じてもらえればと思います。&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;h2 id=&quot;研究室配属までの流れ&quot;&gt;研究室配属までの流れ&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;研究室紹介
+    &lt;ul&gt;
+      &lt;li&gt;各研究室の先輩に直接話を聞けます。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;アンケート調査①・②
+    &lt;ul&gt;
+      &lt;li&gt;その時点で各研究室を希望する人数を集計します。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;予備調査
+    &lt;ul&gt;
+      &lt;li&gt;アンケート調査の結果や研究室紹介を参考にして、希望の研究室を決定し、提出します。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;配属先決定
+    &lt;ul&gt;
+      &lt;li&gt;人数調整などを行い、指導教員の許可をもらった上で配属先が決定します。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tmu-biol.github.io/lab-intro/&quot;&gt;Topへ戻る&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Nov 2021 00:00:00 +0900</pubDate>
-        <link>/biol-lab-intro/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
-        <guid isPermaLink="true">/biol-lab-intro/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
+        <link>/lab-intro/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>
+        <guid isPermaLink="true">/lab-intro/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</guid>
         
         
       </item>
     
       <item>
-        <title>神経分子機能研究室</title>
-        <description>&lt;p&gt;神経分子機能研究室の紹介文&lt;/p&gt;
+        <title>神経分子機能研究室（準備中）</title>
+        <description>&lt;p&gt;準備中です。&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Nov 2021 00:00:00 +0900</pubDate>
-        <link>/biol-lab-intro/neumol/</link>
-        <guid isPermaLink="true">/biol-lab-intro/neumol/</guid>
+        <link>/lab-intro/neumol/</link>
+        <guid isPermaLink="true">/lab-intro/neumol/</guid>
         
         <category>雰囲気</category>
         
@@ -37,12 +85,12 @@
       </item>
     
       <item>
-        <title>発生生物学研究室</title>
-        <description>&lt;p&gt;発生生物学研究室の紹介文&lt;/p&gt;
+        <title>発生生物学研究室（準備中）</title>
+        <description>&lt;p&gt;準備中です。&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Nov 2021 00:00:00 +0900</pubDate>
-        <link>/biol-lab-intro/devpro/</link>
-        <guid isPermaLink="true">/biol-lab-intro/devpro/</guid>
+        <link>/lab-intro/devpro/</link>
+        <guid isPermaLink="true">/lab-intro/devpro/</guid>
         
         <category>雰囲気</category>
         
@@ -52,12 +100,12 @@
       </item>
     
       <item>
-        <title>細胞遺伝学研究室</title>
-        <description>&lt;p&gt;細胞遺伝学研究室の紹介文&lt;/p&gt;
+        <title>細胞遺伝学研究室（準備中）</title>
+        <description>&lt;p&gt;準備中です。&lt;/p&gt;
 </description>
         <pubDate>Mon, 22 Nov 2021 00:00:00 +0900</pubDate>
-        <link>/biol-lab-intro/celgen/</link>
-        <guid isPermaLink="true">/biol-lab-intro/celgen/</guid>
+        <link>/lab-intro/celgen/</link>
+        <guid isPermaLink="true">/lab-intro/celgen/</guid>
         
         <category>雰囲気</category>
         
@@ -67,12 +115,12 @@
       </item>
     
       <item>
-        <title>分子遺伝学研究室</title>
-        <description>&lt;p&gt;分子遺伝学研究室の紹介文&lt;/p&gt;
+        <title>分子遺伝学研究室（準備中）</title>
+        <description>&lt;p&gt;準備中です。&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Nov 2021 00:00:00 +0900</pubDate>
-        <link>/biol-lab-intro/molgen/</link>
-        <guid isPermaLink="true">/biol-lab-intro/molgen/</guid>
+        <link>/lab-intro/molgen/</link>
+        <guid isPermaLink="true">/lab-intro/molgen/</guid>
         
         <category>雰囲気</category>
         
@@ -82,12 +130,12 @@
       </item>
     
       <item>
-        <title>植物発生生理学研究室</title>
-        <description>&lt;p&gt;植物発生生理学研究室の紹介文&lt;/p&gt;
+        <title>植物発生生理学研究室（準備中）</title>
+        <description>&lt;p&gt;準備中です。&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Nov 2021 00:00:00 +0900</pubDate>
-        <link>/biol-lab-intro/horcel/</link>
-        <guid isPermaLink="true">/biol-lab-intro/horcel/</guid>
+        <link>/lab-intro/horcel/</link>
+        <guid isPermaLink="true">/lab-intro/horcel/</guid>
         
         <category>雰囲気</category>
         
@@ -97,12 +145,12 @@
       </item>
     
       <item>
-        <title>細胞生化学研究室</title>
-        <description>&lt;p&gt;細胞生化学研究室の紹介文&lt;/p&gt;
+        <title>細胞生化学研究室（準備中）</title>
+        <description>&lt;p&gt;準備中です。&lt;/p&gt;
 </description>
         <pubDate>Fri, 19 Nov 2021 00:00:00 +0900</pubDate>
-        <link>/biol-lab-intro/celche/</link>
-        <guid isPermaLink="true">/biol-lab-intro/celche/</guid>
+        <link>/lab-intro/celche/</link>
+        <guid isPermaLink="true">/lab-intro/celche/</guid>
         
         <category>雰囲気</category>
         
@@ -112,14 +160,12 @@
       </item>
     
       <item>
-        <title>進化遺伝学研究室</title>
-        <description>&lt;p&gt;進化遺伝学研究室の紹介文&lt;/p&gt;
-
-&lt;p&gt;hello&lt;/p&gt;
+        <title>進化遺伝学研究室（準備中）</title>
+        <description>&lt;p&gt;準備中です。&lt;/p&gt;
 </description>
         <pubDate>Thu, 18 Nov 2021 00:00:00 +0900</pubDate>
-        <link>/biol-lab-intro/evogen/</link>
-        <guid isPermaLink="true">/biol-lab-intro/evogen/</guid>
+        <link>/lab-intro/evogen/</link>
+        <guid isPermaLink="true">/lab-intro/evogen/</guid>
         
         <category>雰囲気</category>
         
@@ -129,12 +175,12 @@
       </item>
     
       <item>
-        <title>神経生物学研究室</title>
-        <description>&lt;p&gt;神経生物学研究室の紹介文&lt;/p&gt;
+        <title>神経生物学研究室（準備中）</title>
+        <description>&lt;p&gt;準備中です。&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 Nov 2021 00:00:00 +0900</pubDate>
-        <link>/biol-lab-intro/neubio/</link>
-        <guid isPermaLink="true">/biol-lab-intro/neubio/</guid>
+        <link>/lab-intro/neubio/</link>
+        <guid isPermaLink="true">/lab-intro/neubio/</guid>
         
         <category>雰囲気</category>
         
@@ -144,12 +190,12 @@
       </item>
     
       <item>
-        <title>植物環境応答研究室</title>
-        <description>&lt;p&gt;植物環境応答研究室の紹介文&lt;/p&gt;
+        <title>植物環境応答研究室（準備中）</title>
+        <description>&lt;p&gt;準備中です。&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Nov 2021 00:00:00 +0900</pubDate>
-        <link>/biol-lab-intro/pladev/</link>
-        <guid isPermaLink="true">/biol-lab-intro/pladev/</guid>
+        <link>/lab-intro/pladev/</link>
+        <guid isPermaLink="true">/lab-intro/pladev/</guid>
         
         <category>雰囲気</category>
         
