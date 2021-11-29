@@ -16,30 +16,32 @@
                 {% endif %}
             </a>
         </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-            </h2>
-            <h4 class="card-text">{{ post.subtitle }}</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                {% if post.author %}
-                <span class="meta-footer-thumb">
-                {% if author.avatar %}
-                <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-                {% else %}
-                <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-                {% endif %}
-                </span>
-                <span class="author-meta">
-                <span class="post-name font-weight-bold">{{ author.display_name }}</span> 
-                {% endif %}
-                <span class="post-date">tmu-biol-lab</span>
-                </span>
-                <div class="clearfix"></div>
+        <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">
+            <div class="card-body">
+                <h2 class="card-title">
+                    {{ post.title }}
+                </h2>
+                <h4 class="card-text">{{ post.subtitle }}</h4>
             </div>
-        </div>
+            <div class="card-footer bg-white">
+                <div class="wrapfooter">
+                    {% if post.author %}
+                    <span class="meta-footer-thumb">
+                    {% if author.avatar %}
+                    <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
+                    {% else %}
+                    <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+                    {% endif %}
+                    </span>
+                    <span class="author-meta">
+                    <span class="post-name font-weight-bold">{{ author.display_name }}</span> 
+                    {% endif %}
+                    <span class="post-date">tmu-biol-lab</span>
+                    </span>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </a>
     </div>
 </div>
 <!-- end post -->
