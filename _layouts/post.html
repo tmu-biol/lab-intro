@@ -8,9 +8,22 @@ post_class: post-template
 <div class="entry-header">
     <!-- Post Title -->
     <h1 class="posttitle">{{ page.title }}</h1>
+    <!-- Categories -->
+    研究分野：{% assign sortedCategories = page.categories | sort %}
+    {% for category in sortedCategories %}
+    <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>                
+    {% endfor %}
+    <br />
+    <!-- Tags -->  
+    雰囲気：{% assign sortedTags = page.tags | sort %}
+    {% for tag in sortedTags %}                
+    <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>               
+    {% endfor %}
+
     <!-- Author & Date  Box -->
     {% assign author = site.authors[page.author] %}
     {% if page.author %}
+    
     <div class="d-flex align-items-center mt-4">
         <div>
             {% if author.avatar %}
@@ -29,6 +42,7 @@ post_class: post-template
     </div>
     {% endif %}
 </div>
+
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
 {% if site.adsense == "enabled" %}
