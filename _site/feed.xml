@@ -5,8 +5,8 @@
     <description>主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。</description>
     <link>/lab-intro/</link>
     <atom:link href="/lab-intro/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Nov 2021 14:46:54 +0900</pubDate>
-    <lastBuildDate>Mon, 29 Nov 2021 14:46:54 +0900</lastBuildDate>
+    <pubDate>Mon, 29 Nov 2021 15:03:20 +0900</pubDate>
+    <lastBuildDate>Mon, 29 Nov 2021 15:03:20 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -60,7 +60,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://tmu-biol.github.io/lab-intro/&quot;&gt;Topへ戻る&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://tmu-biol.github.io/lab-intro/&quot; class=&quot;btn btn-dark&quot;&gt; Topへ戻る →&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Nov 2021 00:00:00 +0900</pubDate>
         <link>/lab-intro/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/</link>

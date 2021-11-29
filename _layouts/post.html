@@ -14,6 +14,7 @@ post_class: post-template
     <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>                
     {% endfor %}
     <br />
+
     <!-- Tags -->  
     雰囲気：{% assign sortedTags = page.tags | sort %}
     {% for tag in sortedTags %}                
