@@ -28,7 +28,7 @@ var documents = [{
     "id": 5,
     "url": "/lab-intro/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "  このサイトは生命科学科の学生に向けて公開しています。外部にURL等を公開しないようお願いします。  公開期間： 〜2月4日(金)  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 6,
     "url": "/lab-intro/robots.txt",
@@ -38,12 +38,12 @@ var documents = [{
     "id": 7,
     "url": "/lab-intro/page2/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "  このサイトは生命科学科の学生に向けて公開しています。外部にURL等を公開しないようお願いします。  公開期間： 〜2月4日(金)  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 8,
     "url": "/lab-intro/page3/",
     "title": "Home",
-    "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
+    "body": "  このサイトは生命科学科の学生に向けて公開しています。外部にURL等を公開しないようお願いします。  公開期間： 〜2月4日(金)  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}"
     }, {
     "id": 9,
     "url": "/lab-intro/%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/",
