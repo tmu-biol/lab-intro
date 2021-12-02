@@ -5,8 +5,8 @@
     <description>主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。</description>
     <link>/lab-intro/</link>
     <atom:link href="/lab-intro/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Nov 2021 19:58:41 +0900</pubDate>
-    <lastBuildDate>Tue, 30 Nov 2021 19:58:41 +0900</lastBuildDate>
+    <pubDate>Thu, 02 Dec 2021 17:39:11 +0900</pubDate>
+    <lastBuildDate>Thu, 02 Dec 2021 17:39:11 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -150,17 +150,73 @@
       </item>
     
       <item>
-        <title>分子遺伝学研究室（準備中）</title>
-        <description>&lt;p&gt;準備中です。&lt;/p&gt;
+        <title>分子遺伝学研究室</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;加藤グループ
+    &lt;ul&gt;
+      &lt;li&gt;B4：1名&lt;/li&gt;
+      &lt;li&gt;D1：1名&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;得平グループ
+    &lt;ul&gt;
+      &lt;li&gt;B4：4名&lt;/li&gt;
+      &lt;li&gt;M1：4名&lt;/li&gt;
+      &lt;li&gt;M2：1名&lt;/li&gt;
+      &lt;li&gt;D2：1名
+&lt;br /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;得平グループでは、シアノバクテリアを用いて微生物の環境適応機構を分子レベルで解明することを目指して研究を進めています。毎週月曜日の朝10時から12時に論文紹介、研究の進捗報告をするゼミを行っています。コアタイムなどは特にありません。研究室の雰囲気は和やかで、来たい時間に来て実験を行い帰りたい時間に帰ることができます。スケジュールの自由度が高いので、自分で計画をしっかり立てることのできる人に向いている研究室です。&lt;/p&gt;
+
+&lt;p&gt;※加藤先生の研究室に興味がある方は直接アポを取るようお願いします。&lt;/p&gt;
+
+&lt;h2 id=&quot;卒研テーマ例&quot;&gt;卒研テーマ例&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;大腸菌における酸化ストレス耐性関連遺伝子の機能解析 (加藤G)&lt;/li&gt;
+  &lt;li&gt;ゲノム縮小大腸菌の実験室進化 (加藤G)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Anabaena&lt;/em&gt;&lt;/strong&gt; sp. PCC7120におけるレスポンスレギュレーターOrrAをリン酸化するヒスチジンキナーゼの同定 (得平G)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Anabaena variabilis&lt;/em&gt;&lt;/strong&gt;におけるアキネート形成に関与する新規遺伝子の同定 (得平G)&lt;/li&gt;
+  &lt;li&gt;窒素固定型シアノバクテリアを利用した窒素と二酸化炭素からのシアノフィシン生産 (得平G)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Azolla&lt;/em&gt;&lt;/strong&gt;と&lt;strong&gt;&lt;em&gt;Nostoc azollae&lt;/em&gt;&lt;/strong&gt;の共生メカニズムの解明 (得平G)
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;ゼミの回数&quot;&gt;ゼミの回数&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;不定期 (加藤G)&lt;/li&gt;
+  &lt;li&gt;週１回 (得平G)
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Sun, 21 Nov 2021 00:00:00 +0900</pubDate>
         <link>/lab-intro/molgen/</link>
         <guid isPermaLink="true">/lab-intro/molgen/</guid>
         
-        <category>雰囲気</category>
+        <category>コアタイムなし</category>
+        
+        <category>就活可</category>
+        
+        <category>他大への進学OK</category>
+        
+        <category>自分のデスクがある</category>
+        
+        <category>自由に休める</category>
+        
+        <category>研究テーマを自分で決める</category>
         
         
-        <category>分野</category>
+        <category>微生物学</category>
+        
+        <category>分子生物学</category>
+        
+        <category>生化学</category>
+        
+        <category>生理学</category>
+        
+        <category>遺伝学</category>
         
       </item>
     
