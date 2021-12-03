@@ -5,8 +5,8 @@
     <description>主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。</description>
     <link>/lab-intro/</link>
     <atom:link href="/lab-intro/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Dec 2021 21:53:57 +0900</pubDate>
-    <lastBuildDate>Fri, 03 Dec 2021 21:53:57 +0900</lastBuildDate>
+    <pubDate>Fri, 03 Dec 2021 21:54:46 +0900</pubDate>
+    <lastBuildDate>Fri, 03 Dec 2021 21:54:46 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -267,17 +267,72 @@
       </item>
     
       <item>
-        <title>植物発生生理学研究室（準備中）</title>
-        <description>&lt;p&gt;準備中です。&lt;/p&gt;
+        <title>植物発生生理学研究室</title>
+        <description>&lt;p&gt;こんにちは。植物発生生理学研究室です。&lt;/p&gt;
+
+&lt;p&gt;私たちの研究テーマは「被子植物(イネ、コムギなど)の受精卵の発生機構」です。&lt;br /&gt;
+植物の受精と胚発生過程を顕微鏡下で再現することで、植物の発生原理を知り、そして新たな植物の作成を試みています。&lt;br /&gt;
+また、植物の発生機構を支える細胞の運命決定様式についての研究も進めています。&lt;/p&gt;
+
+&lt;p&gt;現在、先生3名の下に10人の学生が所属しています。&lt;br /&gt;
+内訳は研究員1人、博士3人、修士4人、卒研生2人です。&lt;/p&gt;
+
+&lt;p&gt;活動時間は原則平日の10~17時となっています。&lt;br /&gt;
+自分の研究に応じて、柔軟に研究活動を進めています。&lt;/p&gt;
+
+&lt;p&gt;ゼミは週1~2回で、火曜日14：40~と金曜日13：00~です。&lt;br /&gt;
+自分の研究活動の報告と論文の紹介を半期に一回ずつ行います。&lt;/p&gt;
+
+&lt;p&gt;研究室は3部屋がつながっており、先生や学生同士の距離が近くコミュニケーションがとりやすい環境です☺&lt;/p&gt;
+
+&lt;p&gt;興味のある方は、ぜひ一度研究室に話を聞きに来てください！&lt;/p&gt;
+
+&lt;h2 id=&quot;卒研テーマ例&quot;&gt;卒研テーマ例&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;ヒストン脱アセチル化酵素の阻害剤による、卵細胞の自律的発生機構&lt;/li&gt;
+  &lt;li&gt;コムギ—イネ交雑受精卵の発生及び、発生不全機構&lt;/li&gt;
+  &lt;li&gt;C3-C4植物交雑受精卵の産生とゲノムダイナミクスの制御による、光合成細胞質置換&lt;/li&gt;
+  &lt;li&gt;シロイヌナズナの花成における茎頂メリステムのサイズとアイデンティティ転換&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ゼミ回数&quot;&gt;ゼミ回数&lt;/h2&gt;
+&lt;p&gt;週２回&lt;/p&gt;
+
 </description>
         <pubDate>Sat, 20 Nov 2021 00:00:00 +0900</pubDate>
         <link>/lab-intro/horcel/</link>
         <guid isPermaLink="true">/lab-intro/horcel/</guid>
         
-        <category>雰囲気</category>
+        <category>就活可</category>
+        
+        <category>他大への進学OK</category>
+        
+        <category>自分のデスクがある</category>
+        
+        <category>ゼミ英語</category>
+        
+        <category>自由に休める</category>
+        
+        <category>研究テーマが与えられる</category>
         
         
-        <category>分野</category>
+        <category>植物学</category>
+        
+        <category>分子生物学</category>
+        
+        <category>生化学</category>
+        
+        <category>生理学</category>
+        
+        <category>遺伝学</category>
+        
+        <category>細胞生物学</category>
+        
+        <category>発生生物学</category>
+        
+        <category>農学</category>
         
       </item>
     
