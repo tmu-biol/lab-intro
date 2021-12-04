@@ -5,8 +5,8 @@
     <description>主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。</description>
     <link>/lab-intro/</link>
     <atom:link href="/lab-intro/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Dec 2021 12:09:20 +0900</pubDate>
-    <lastBuildDate>Sat, 04 Dec 2021 12:09:20 +0900</lastBuildDate>
+    <pubDate>Sat, 04 Dec 2021 12:54:35 +0900</pubDate>
+    <lastBuildDate>Sat, 04 Dec 2021 12:54:35 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -120,13 +120,55 @@
       </item>
     
       <item>
-        <title>発生生物学研究室（準備中）</title>
-        <description>&lt;p&gt;準備中です。&lt;/p&gt;
+        <title>発生生物学研究室</title>
+        <description>&lt;p&gt;こんにちは、発生生物学研究室です。&lt;br /&gt;
+私たちは福田先生と高鳥先生のもと、発生のメカニズムについて研究をしています。&lt;br /&gt;
+研究はニワトリとホヤで&lt;br /&gt;
+・ニワトリ(福田先生)：修士1人、学部3人&lt;br /&gt;
+・ホヤ(高鳥先生)：博士1人　と分かれて行っています&lt;br /&gt;
+ゼミは水曜日(18:00～)と土曜日(10:00～)の週に2回あり、論文の紹介と研究の進捗発表をします&lt;/p&gt;
+
+&lt;h2 id=&quot;卒研テーマ例&quot;&gt;卒研テーマ例&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;ニワトリ
+    &lt;ol&gt;
+      &lt;li&gt;ニワトリ胚の頭褶形成機構&lt;/li&gt;
+      &lt;li&gt;トリ胚の張力維持に必要なEdge cellsについて&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ホヤ
+    &lt;ol&gt;
+      &lt;li&gt;中胚葉と内胚葉の運命分離について&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ゼミの回数&quot;&gt;ゼミの回数&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;週２回
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Tue, 23 Nov 2021 00:00:00 +0900</pubDate>
         <link>/lab-intro/devpro/</link>
         <guid isPermaLink="true">/lab-intro/devpro/</guid>
         
+        <category>コアタイムなし</category>
+        
+        <category>就活可</category>
+        
+        <category>自分のデスクがある</category>
+        
+        <category>自由に休める</category>
+        
+        <category>研究テーマを自分で決める</category>
+        
+        <category>研究テーマが与えられる</category>
+        
+        <category>バイト可</category>
+        
+        
+        <category>発生生物学</category>
         
       </item>
     
