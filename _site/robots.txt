@@ -1,1 +1,2 @@
-Sitemap: /lab-intro/sitemap.xml
+User-agent: *
+Disallow: /

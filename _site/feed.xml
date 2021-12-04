@@ -5,8 +5,8 @@
     <description>主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。</description>
     <link>/lab-intro/</link>
     <atom:link href="/lab-intro/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Dec 2021 21:55:15 +0900</pubDate>
-    <lastBuildDate>Fri, 03 Dec 2021 21:55:15 +0900</lastBuildDate>
+    <pubDate>Sat, 04 Dec 2021 12:09:20 +0900</pubDate>
+    <lastBuildDate>Sat, 04 Dec 2021 12:09:20 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -127,10 +127,6 @@
         <link>/lab-intro/devpro/</link>
         <guid isPermaLink="true">/lab-intro/devpro/</guid>
         
-        <category>雰囲気</category>
-        
-        
-        <category>分野</category>
         
       </item>
     
@@ -344,10 +340,6 @@
         <link>/lab-intro/celche/</link>
         <guid isPermaLink="true">/lab-intro/celche/</guid>
         
-        <category>雰囲気</category>
-        
-        
-        <category>分野</category>
         
       </item>
     
@@ -359,10 +351,6 @@
         <link>/lab-intro/evogen/</link>
         <guid isPermaLink="true">/lab-intro/evogen/</guid>
         
-        <category>雰囲気</category>
-        
-        
-        <category>分野</category>
         
       </item>
     
@@ -374,10 +362,6 @@
         <link>/lab-intro/neubio/</link>
         <guid isPermaLink="true">/lab-intro/neubio/</guid>
         
-        <category>雰囲気</category>
-        
-        
-        <category>分野</category>
         
       </item>
     
@@ -389,10 +373,6 @@
         <link>/lab-intro/pladev/</link>
         <guid isPermaLink="true">/lab-intro/pladev/</guid>
         
-        <category>雰囲気</category>
-        
-        
-        <category>分野</category>
         
       </item>
     
