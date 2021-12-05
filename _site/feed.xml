@@ -5,8 +5,8 @@
     <description>主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。</description>
     <link>/lab-intro/</link>
     <atom:link href="/lab-intro/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Dec 2021 12:57:15 +0900</pubDate>
-    <lastBuildDate>Sun, 05 Dec 2021 12:57:15 +0900</lastBuildDate>
+    <pubDate>Sun, 05 Dec 2021 13:12:35 +0900</pubDate>
+    <lastBuildDate>Sun, 05 Dec 2021 13:12:35 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -397,13 +397,64 @@
       </item>
     
       <item>
-        <title>神経生物学研究室（準備中）</title>
-        <description>&lt;p&gt;準備中です。&lt;/p&gt;
+        <title>神経生物学研究室</title>
+        <description>&lt;p&gt;黒川先生とAdam先生のもと、D3:3人、B4：4人（黒川組:2人、Adam組:2人）、そのほか他大学の教授と連携して研究を行っております。&lt;br /&gt;
+研究内容:黒川組では、主に水生無脊椎動物を用いて、様々な生理現象を神経回路の側面から解明するための研究を行っております。ゼミは週に一回(本年は金曜午前8時〜10時)で、英語論文の紹介をローテーションで行っております。&lt;br /&gt;
+Adam組ではマウスを用いて海馬や記憶、神経新生などについての研究を行っております。ゼミは週に一回（本年は月曜午前、２時間程度）  、進捗発表や英語論文の紹介などを行っております。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;今年の卒研生年間スケジュール:&lt;/strong&gt;&lt;br /&gt;
+前期（４～８月）：機材の使い方や、テクニックを教わる。&lt;br /&gt;
+後期（9月～）:院の入試終了後、教授や先輩に相談に乗ってもらいながら、テーマの決定(テーマは基本自分で決める)。卒研にむけて研究中。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;研究室の雰囲気:&lt;/strong&gt;&lt;br /&gt;
+研究室でおしゃべりしたり、コロナがないときはBBQや研究室旅行もやってました。フィールドワークで実験動物を集める等、ややアクティブな研究室です。研究に打ち込むときはしっかりと研究をします。&lt;br /&gt;
+遊ぶときは遊ぶ、やるときはやる、メリハリのはっきりしている研究室だと思います。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PR：&lt;/strong&gt;&lt;br /&gt;
+やっはろー、神経生物学研究室です。脳や神経、生理現象など興味のある方、一緒に研究できる日を待ち望んでいます。&lt;/p&gt;
+
+&lt;h2 id=&quot;卒研テーマ例&quot;&gt;卒研テーマ例&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;光合成の神経生物学&lt;/li&gt;
+  &lt;li&gt;ザリガニの尿コミュニケーション解析&lt;/li&gt;
+  &lt;li&gt;変異体マウスを使った行動解析
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;ゼミ回数&quot;&gt;ゼミ回数&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;週１回
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 17 Nov 2021 00:00:00 +0900</pubDate>
         <link>/lab-intro/neubio/</link>
         <guid isPermaLink="true">/lab-intro/neubio/</guid>
         
+        <category>コアタイムなし</category>
+        
+        <category>就活可</category>
+        
+        <category>他大への進学OK</category>
+        
+        <category>自分のデスクがある</category>
+        
+        <category>自由に休める</category>
+        
+        <category>研究テーマを自分で決める</category>
+        
+        <category>イベントあり</category>
+        
+        
+        <category>分子生物学</category>
+        
+        <category>生理学</category>
+        
+        <category>細胞生物学</category>
+        
+        <category>医学</category>
+        
+        <category>神経科学</category>
         
       </item>
     
