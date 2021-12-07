@@ -5,7 +5,7 @@ subtitle:  "動物系統分類学研究室の紹介ページ"
 categories: [ 動物学, 生態学, 進化生物学, 動物行動学 ]
 tags: [ コアタイムなし, 就活可, 他大への進学OK, 自分のデスクがある, ゼミ英語, 自由に休める, 研究テーマを自分で決める, 研究テーマが与えられる, イベントあり, 日本語OK ]
 image: assets/images/anisys-adam.jpg
-video: https://www.youtube.com/WUpNGRNOnPQ
+video: https://youtu.be/WUpNGRNOnPQ
 videoemb: https://www.youtube.com/embed/WUpNGRNOnPQ
 ---
 
