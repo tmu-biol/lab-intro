@@ -5,8 +5,8 @@
     <description>主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。</description>
     <link>/lab-intro/</link>
     <atom:link href="/lab-intro/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Dec 2021 16:46:39 +0900</pubDate>
-    <lastBuildDate>Tue, 07 Dec 2021 16:46:39 +0900</lastBuildDate>
+    <pubDate>Tue, 07 Dec 2021 16:48:33 +0900</pubDate>
+    <lastBuildDate>Tue, 07 Dec 2021 16:48:33 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -542,7 +542,7 @@ Adam組ではマウスを用いて海馬や記憶、神経新生などについ�
 
 &lt;h2 id=&quot;卒研テーマ例&quot;&gt;卒研テーマ例&lt;/h2&gt;
 &lt;ol&gt;
-  &lt;li&gt;Acaryochloris属のシアノバクテリアの光利用戦略の解明&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Acaryochloris&lt;/em&gt;属のシアノバクテリアの光利用戦略の解明&lt;/li&gt;
   &lt;li&gt;開環テトラピロール色素を合成する酵素の発見・改変&lt;/li&gt;
   &lt;li&gt;シアノバクテリオクロム型光受容体の発見・改変
 &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
