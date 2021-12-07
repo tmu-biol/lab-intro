@@ -5,8 +5,8 @@
     <description>主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。</description>
     <link>/lab-intro/</link>
     <atom:link href="/lab-intro/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Dec 2021 14:13:03 +0900</pubDate>
-    <lastBuildDate>Sun, 05 Dec 2021 14:13:03 +0900</lastBuildDate>
+    <pubDate>Tue, 07 Dec 2021 09:20:37 +0900</pubDate>
+    <lastBuildDate>Tue, 07 Dec 2021 09:20:37 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -375,24 +375,97 @@
       </item>
     
       <item>
-        <title>細胞生化学研究室（準備中）</title>
-        <description>&lt;p&gt;準備中です。&lt;/p&gt;
+        <title>細胞生化学研究室</title>
+        <description>&lt;p&gt;初めまして、細胞生化学研究室です！&lt;br /&gt;
+私たちは培養細胞を用いて、膜タンパク質や、RNA結合タンパク質等の機能解析を行なっています。&lt;br /&gt;
+コアタイムは厳密には決められていませんが、基本的に平日の10時から17時まで活動しています。ゼミは週に一回、水曜か金曜の13時から行われており、研究の進捗報告と論文の紹介を行なっています。現在のメンバーは教授、助教、特任助教、秘書さん、博士課程４人、修士課程９人、卒研生８人が在籍しています。&lt;br /&gt;
+配属されたばかりの時期は、卒研生にはそれぞれ先輩方がついて、非常に手厚い指導が受けれます。&lt;br /&gt;
+とてもアットホームで賑やかなラボです。気になった方は是非気軽に見学に来てください！&lt;/p&gt;
+
+&lt;h2 id=&quot;卒研テーマ例&quot;&gt;卒研テーマ例&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;XLMR原因遺伝子産物Rab39bの代謝におけるGDI1の役割&lt;/li&gt;
+  &lt;li&gt;Hibit-tagを用いたBAG6複合体構成因子発現を定量する系の確立&lt;/li&gt;
+  &lt;li&gt;TanGIBLEを用いたストレス応答標的タンパク質群の同定方開発
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;ゼミ回数&quot;&gt;ゼミ回数&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;週１回
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Fri, 19 Nov 2021 00:00:00 +0900</pubDate>
         <link>/lab-intro/celche/</link>
         <guid isPermaLink="true">/lab-intro/celche/</guid>
         
+        <category>就活可</category>
+        
+        <category>他大への進学OK</category>
+        
+        <category>自分のデスクがある</category>
+        
+        <category>研究テーマが与えられる</category>
+        
+        
+        <category>分子生物学</category>
+        
+        <category>生化学</category>
+        
+        <category>細胞生物学</category>
+        
+        <category>神経科学</category>
         
       </item>
     
       <item>
-        <title>進化遺伝学研究室（準備中）</title>
-        <description>&lt;p&gt;準備中です。&lt;/p&gt;
+        <title>進化遺伝学研究室</title>
+        <description>&lt;p&gt;学部3年生の皆さんこんにちは！&lt;br /&gt;
+進化遺伝学研究室です。我々の研究室では、生物進化のメカニズムを遺伝子やゲノムのレベルで解明することを目指しています。&lt;br /&gt;
+野外採集に始まり、分子生物学、生物情報学的手法を用いた幅広い研究がモットーです。&lt;br /&gt;
+担当教員は田村先生、高橋先生、野澤先生の3名で、その他に、客員研究員1名、系統維持担当職員1名、研究室秘書1名、技官3名、PD2名、RA1名、博士課程7名、修士課程10名、卒研生5名が所属しています。&lt;br /&gt;
+ゼミは毎週月曜日の午前中に行っており、基本的にコアタイムはありません。アットホームな研究室なので、ぜひ見学にいらして下さい！！&lt;/p&gt;
+
+&lt;h2 id=&quot;卒研テーマ例&quot;&gt;卒研テーマ例&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;アカショウジョウバエの低温耐性の遺伝機構と熱帯から温帯への適応進化のメカニズム&lt;/li&gt;
+  &lt;li&gt;ショウジョウバエにおけるアキアズミー（雄組換え抑制）の遺伝機構&lt;/li&gt;
+  &lt;li&gt;分子系統解析に関する理論的研究とバイオインフォマティクス&lt;/li&gt;
+  &lt;li&gt;ショウジョウバエを用いた種分化の分子機構&lt;/li&gt;
+  &lt;li&gt;ショウジョウバエにおける性染色体の進化メカニズム&lt;/li&gt;
+  &lt;li&gt;ショウジョウバエ抗菌ペプチドによる微生物環境適応のメカニズム
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;ゼミ回数&quot;&gt;ゼミ回数&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;週１回
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Thu, 18 Nov 2021 00:00:00 +0900</pubDate>
         <link>/lab-intro/evogen/</link>
         <guid isPermaLink="true">/lab-intro/evogen/</guid>
         
+        <category>コアタイムなし</category>
+        
+        <category>就活可</category>
+        
+        <category>自由に休める</category>
+        
+        <category>研究テーマを自分で決める</category>
+        
+        <category>研究テーマが与えられる</category>
+        
+        <category>イベントあり</category>
+        
+        
+        <category>遺伝学</category>
+        
+        <category>進化生物学</category>
+        
+        <category>バイオインフォマティクス</category>
         
       </item>
     
@@ -411,7 +484,7 @@ Adam組ではマウスを用いて海馬や記憶、神経新生などについ�
 遊ぶときは遊ぶ、やるときはやる、メリハリのはっきりしている研究室だと思います。&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;PR：&lt;/strong&gt;&lt;br /&gt;
-やっはろー、神経生物学研究室です。脳や神経、生理現象など興味のある方、一緒に研究できる日を待ち望んでいます。&lt;/p&gt;
+こんにちは、神経生物学研究室です。脳や神経、生理現象など興味のある方、一緒に研究できる日を待ち望んでいます。&lt;/p&gt;
 
 &lt;h2 id=&quot;卒研テーマ例&quot;&gt;卒研テーマ例&lt;/h2&gt;
 &lt;ol&gt;
@@ -459,13 +532,56 @@ Adam組ではマウスを用いて海馬や記憶、神経新生などについ�
       </item>
     
       <item>
-        <title>植物環境応答研究室（準備中）</title>
-        <description>&lt;p&gt;準備中です。&lt;/p&gt;
+        <title>植物環境応答研究室 光合成微生物グループ（成川グループ）</title>
+        <description>&lt;p&gt;植物環境応答研究室光合成微生物グループ（成川グループ）は、今年の4月に発足した新しい研究グループです。&lt;/p&gt;
+
+&lt;p&gt;現在はPIの成川以外に、特任助教1名、博士課程学生2名、修士課程学生2名が在籍しています。来年度は、現状、特任助教1名、博士課程学生1名、修士課程学生3名となる予定です。ゼミは月曜日の10時から1-2時間ほど行っています。隔週で鐘ケ江先生のグループと共同での論文ゼミ、合間の週には成川グループ内での研究進捗報告ゼミを行っています。後者は、特に事前に資料を準備する必要はなく、2週間の間に行った実験について、ノートやパソコンを参照しながら報告してもらうスタイルです。&lt;/p&gt;
+
+&lt;p&gt;研究室の雰囲気は、その年々のメンバーによって変動すると思うので、一概に言えませんが、PIの成川の方針は「個人主義」です。個別に仲良くするのは自由ですが、みんなで何かをしようというような強い同調圧力のあるような研究室にはしたくないです。&lt;/p&gt;
+
+&lt;p&gt;研究としては、光合成微生物であるシアノバクテリアを対象として、「光生物学」という学問分野を土台として、分子レベルから細胞集団レベルまでの階層で、光利用戦略を解明する研究を行っています。将来的には生態レベルの階層での視点も取り入れたいと思っています。また、近年は、上記の研究によって発見したユニークな光センサー群を改変し、分子イメージングやオプトジェネティクス（光遺伝学）に資する蛍光プローブ・光スイッチの開発をする応用的な研究にも取り組んでいます。&lt;/p&gt;
+
+&lt;h2 id=&quot;卒研テーマ例&quot;&gt;卒研テーマ例&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Acaryochloris属のシアノバクテリアの光利用戦略の解明&lt;/li&gt;
+  &lt;li&gt;開環テトラピロール色素を合成する酵素の発見・改変&lt;/li&gt;
+  &lt;li&gt;シアノバクテリオクロム型光受容体の発見・改変
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;ゼミの回数&quot;&gt;ゼミの回数&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;週１回
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
         <pubDate>Tue, 16 Nov 2021 00:00:00 +0900</pubDate>
-        <link>/lab-intro/pladev/</link>
-        <guid isPermaLink="true">/lab-intro/pladev/</guid>
+        <link>/lab-intro/pladev-narikawa/</link>
+        <guid isPermaLink="true">/lab-intro/pladev-narikawa/</guid>
         
+        <category>コアタイムなし</category>
+        
+        <category>就活可</category>
+        
+        <category>他大への進学OK</category>
+        
+        <category>自由に休める</category>
+        
+        <category>研究テーマを自分で決める</category>
+        
+        <category>研究テーマが与えられる</category>
+        
+        
+        <category>微生物学</category>
+        
+        <category>分子生物学</category>
+        
+        <category>生化学</category>
+        
+        <category>生物物理学</category>
+        
+        <category>生理学</category>
         
       </item>
     
