@@ -15,7 +15,7 @@ videoemb: https://www.youtube.com/embed/WUpNGRNOnPQ
 研究の概要（材料など）：行動学や生態学をはじめとした幅広い動物に関する研究をしています。材料としては、アリやハチ、アノールなど動物なら何でも大丈夫です。
 その他：いつでもラボ訪問可能なので、気軽に研究室まで来てください。
   
-<a href="https://adamcronin.org/" class="btn btn-dark"> https://adamcronin.org/ &rarr;</a>
+<a href="" class="btn btn-dark"> https://adamcronin.org/ &rarr;</a>
 
 ## 卒研テーマ例
 1. Collective performance in Camponotus ants
