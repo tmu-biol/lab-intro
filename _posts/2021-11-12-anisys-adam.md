@@ -14,14 +14,14 @@ videoemb: https://www.youtube.com/embed/WUpNGRNOnPQ
 研究室の雰囲気：本当にフリーダム。
 研究の概要（材料など）：行動学や生態学をはじめとした幅広い動物に関する研究をしています。材料としては、アリやハチ、アノールなど動物なら何でも大丈夫です。
 その他：いつでもラボ訪問可能なので、気軽に研究室まで来てください。
-  
-<a href="" class="btn btn-dark"> https://adamcronin.org/ &rarr;</a>
+
+ webサイト（https://adamcronin.org/）
 
 ## 卒研テーマ例
 1. Collective performance in Camponotus ants
 1. Immune responsiveness in Lasioglossum bees
 1. Biodiversity impacts of invasive Anolis lizards in Ogasawara
-webサイト参照（https://adamcronin.org/）
+
 <br /><br />
 
 ## ゼミ回数
