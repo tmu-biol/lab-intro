@@ -1,7 +1,7 @@
 # Site
 name: "研究室紹介"
 title: "研究室紹介サイト"
-description: "主に2022年度に研究室配属を予定している学生に向けて研究室を紹介します。"
+description: "主に2023年度に研究室配属を予定している学生に向けて研究室を紹介します。"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /lab-intro
