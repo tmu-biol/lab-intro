@@ -2,7 +2,7 @@
 layout: post
 title:  "植物環境応答研究室 光合成微生物グループ（成川グループ）"
 subtitle:  "植物環境応答研究室 光合成微生物グループ（成川グループ）の紹介ページ"
-tags: [ コアタイムなし,就活可,他大への進学OK,自由に休める,研究テーマを自分で決める,研究テーマが与えられる ]
+tags: [ コアタイムなし,他大への進学OK,自由に休める,研究テーマを自分で決める,研究テーマが与えられる ]
 categories: [ 微生物学,分子生物学,生化学,生物物理学,生理学 ]
 image: assets/images/nishino2.jpg
 video: https://youtu.be/pUHDBCjrN9A
